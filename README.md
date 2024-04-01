@@ -64,11 +64,11 @@ void loop()
 ### OUTPUT
 
 ### CIRCUIT DIAGRAM
+![Screenshot 2024-03-21 113800](https://github.com/Chandru0711/Experiment-no-7-DC-Motor-Speed-Control-Using-Arduino/assets/144979368/98be5f0f-cd92-4f69-9eb1-2299eedfcdb0)
 
-![image](https://github.com/Kishorekumar22060/Experiment-no-7-DC-Motor-Speed-Control-Using-Arduino/assets/141472136/212895fa-ab14-437e-839b-e7610ed94c2d)
 
 ### SCHEMATIC VIEW
-![image](https://github.com/Kishorekumar22060/Experiment-no-7-DC-Motor-Speed-Control-Using-Arduino/assets/141472136/234d48d8-f3e6-4f68-a76d-a3d6ddc6230b)
+![Screenshot 2024-03-21 114724](https://github.com/Chandru0711/Experiment-no-7-DC-Motor-Speed-Control-Using-Arduino/assets/144979368/b48ce449-855e-4aa3-8014-fa31be4e3321)
 
 
 ### GRAPH AND TABULATION 
